@@ -303,7 +303,7 @@ An ANN is subsequently used in an attempt to maximize model performance on the a
 
 #### 4.1 Main Result from Clustering
 
-Our final result from our KMeans++ method is illustrated in `figure X` and includes the following five clusters:
+Our final result from our KMeans++ method is illustrated in `best cluster` and includes the following five clusters:
 
 1. Budget-Conscious (bottom lower left corner)
 2. Regular Buyers (above budget-conscious on the y-axis)
